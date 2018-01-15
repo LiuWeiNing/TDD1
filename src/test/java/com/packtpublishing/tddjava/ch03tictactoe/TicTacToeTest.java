@@ -5,6 +5,8 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
+import static com.sun.xml.internal.ws.dump.LoggingDumpTube.Position.Before;
+
 /**
  * Created by LIUMI8 on 1/15/2018.
  */

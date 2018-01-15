@@ -1,4 +1,4 @@
-group 'tdd'
+group 'TICTACTOE'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
